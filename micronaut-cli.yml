@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, config-kubernetes, data, data-r2dbc, dekorate-kubernetes, dekorate-prometheus, http-client, java, java-application, jib, junit, kafka, kafka-streams, kubernetes, log4j2, lombok, management, mariadb, maven, micrometer, micrometer-prometheus, netty-server, openapi, properties, r2dbc, reactor, readme, security-annotations, security-jwt, shade, testcontainers]
